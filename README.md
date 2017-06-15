@@ -1,2 +1,2 @@
 # docs
-Documentaciones **wiki**
+Documentaciones [Wiki](https://github.com/ferPiece/doc/wiki)
